@@ -1,0 +1,4 @@
+#Mon Sep 28 15:52:29 ICT 2020
+base.0=D\:\\Semester 7\\tktpl\\New folder\\mobile-programming-2020\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
